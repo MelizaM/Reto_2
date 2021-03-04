@@ -1,0 +1,49 @@
+body{
+    background-image: url(../images/bg-pattern-top-desktop.SVG);
+    background-repeat: no-repeat, no-repeat;
+    background-position:0%, 80% 50% ;
+    font-family: 'Spartan', sans-serif;
+    font-size: 12px;
+
+}
+
+
+.star{
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 8px;
+}
+
+.color{
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+}
+.titulo{
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+    font-size: 49px;
+}
+
+.P{
+    color: hsl(300, 43%, 22%);
+    font-weight: 300;
+}
+p{
+    font-size: 10px;
+}
+
+.Recuadro{
+    background-color: hsl(300, 43%, 22%);
+}
+.Name1{
+    color:white;
+    font-size: 15px;
+    margin: auto;
+    align-items: center;
+}
+
+.Name2{
+    color: hsl(333, 80%, 67%);
+    font-size: 15px;
+    margin: auto;
+    align-items: center;
+}
